@@ -2,24 +2,21 @@
 
 
 
-Healthcare Dashboard
-📌 About
-This repository contains a Power BI Dashboard designed for Healthcare data analysis 
+# Healthcare Dashboard  
 
-🔍 How to View the Dashboard
-GitHub does not support direct preview of Power BI (.pbix) files. To view this dashboard:
+## 📌 About  
+This repository contains a **Power BI Dashboard**  
 
-Download the .pbix file from this repository.
+## 🔍 How to View the Dashboard  
+GitHub does not support direct preview of Power BI (`.pbix`) files. To view this dashboard:  
 
-Open it using Microsoft Power BI Desktop.
+1. **Download** the `.pbix` file from this repository.  
+2. **Open it** using Microsoft Power BI Desktop.  
+3. **Explore the insights** and interact with the visualizations.  
 
-Explore the insights and interact with the visualizations.
+## 📂 Files Included  
+- `dashboard.pbix` - The Power BI dashboard file.  
+- `README.md` - This guide on how to use the dashboard.  
 
-📂 Files Included
-dashboard.pbix - The Power BI dashboard file.
-
-README.md - This guide on how to use the dashboard.
-
-❗ Requirements
-Microsoft Power BI Desktop (Ensure it is installed on your system).
-
+## ❗ Requirements  
+- **Microsoft Power BI Desktop** (Ensure it is installed on your system).  
